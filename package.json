@@ -1,0 +1,16 @@
+{
+  "name": "generator-tiny-web",
+  "version": "1.0.0",
+  "description": "a simple web generator",
+  "files": [
+    "generators"
+  ],
+  "author": "gongyuqi <gong_yu_qi@163.com>",
+  "license": "MIT",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
+}
