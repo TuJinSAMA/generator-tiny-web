@@ -59,8 +59,13 @@ module.exports = class extends Generator {
   }
 
   end() {
-    console.log('generator success!');
-    console.log(`cd ${this.answers.projectName}`);
-    console.log(`npm install`);
+    const endSentence = `
+    generator success!
+        next:
+        1. cd ${this.answers.projectName}
+        2. npm install
+        3. npm run start
+    `;
+    console.log(endSentence)
   }
 }
