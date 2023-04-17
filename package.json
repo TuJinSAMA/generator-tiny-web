@@ -1,12 +1,17 @@
 {
   "name": "generator-tiny-web",
   "version": "1.0.0",
-  "description": "a simple web generator",
+  "description": "Yeoman Generator",
+  "author": {
+    "name": "gongyuqi",
+    "email": "gong_yu_qi@163.com",
+    "url": "https://github.com/TuJinSAMA"
+  },
   "files": [
     "generators"
   ],
-  "author": "gongyuqi <gong_yu_qi@163.com>",
   "license": "MIT",
+  "repository": "TuJinSAMA/generator-tiny-web",
   "keywords": [
     "yeoman-generator"
   ],
